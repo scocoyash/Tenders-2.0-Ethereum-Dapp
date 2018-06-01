@@ -132,10 +132,10 @@ Then you have to map the addresses of the the contracts deployed in the web3_mai
 * [Tender 2.0](http://prezi.com/zp0s9b-1qmq2/?utm_campaign=share&utm_medium=copy)
 ## Authors
 
+* **Pranamya Jain** - *Initial work*
 * **Siddhesh Rane** - *Initial work*
 * **Siddhesh Gangan** - *Initial work* 
 * **Yash Jain** - *Initial work*
-* **Pranamya Jain** - *Initial work*
 
 
 
